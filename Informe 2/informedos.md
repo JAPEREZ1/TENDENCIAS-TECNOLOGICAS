@@ -1,5 +1,3 @@
-# Práctica No. 1: Despliegue de servidores web con Nginx en Docker
-
 ## 1. Título
 Creación y personalización de dos servidores web con Nginx utilizando Docker
 
