@@ -18,7 +18,7 @@ En esta práctica, se usan dos etapas en el Dockerfile: una para construir la ap
 
 ## 4. Conocimientos previos
 
-Para realizar esta práctica el estudiante necesita:
+Para realizar esta práctica necesite:
 - Conocer comandos Linux (cd, ls, mkdir, etc.)
 - Comprender estructura de proyectos React
 - Manejo básico de navegadores web
